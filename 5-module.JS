@@ -1,0 +1,10 @@
+// Modules
+const names = require('./1-module.JS')
+const sayHi = require('./2-module.JS')
+const data  = require('./3-module.JS')
+require('./4-module.JS')
+//console.log(data)
+//sayHi('ajith')
+//sayHi('vijay')
+//sayHi(names.john)
+//sayHi(names.peter)
